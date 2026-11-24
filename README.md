@@ -45,3 +45,7 @@ main.c       menu principale
 gamelib.h    strutture: giocatore e zona della mappa (lista doppiamente concatenata)
 gamelib.c    impostazione, mappa, turni, porte, tesori e combattimenti
 ```
+
+---
+
+Licenza [MIT](LICENSE).
